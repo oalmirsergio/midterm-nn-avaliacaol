@@ -1,0 +1,1 @@
+# Aplicação interativa (Streamlit/Gradio)
